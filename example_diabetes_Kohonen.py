@@ -3,7 +3,7 @@ from numpy import genfromtxt,array,linalg,zeros,mean,std,apply_along_axis
 import matplotlib.pyplot as plt
 
 """
-    This script shows how to use MiniSom on the Boston dataset.
+    This script shows how to use MiniSom on the Diabetes dataset.
     In partucular it shows how to train MiniSom and how to visualize the result.
     ATTENTION: pylab is required for the visualization.        
 """
